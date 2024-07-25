@@ -7,5 +7,5 @@ Outputs a video that shows a graph of a fractal. The 'camera' zooms slowly into 
 ## Usage
 Download entire project and run FractalRender.m. Modify options within FractalRender.m to get desired results.
 ## Example
-What an output looks like after compressing into a gif. (May take a moment to load)
-![Fractal](https://github.com/user-attachments/assets/8ef4a4c2-9b20-4490-b8d5-d245f7e360ca)
+What a single output frame may look like.
+![Fractal](https://github.com/user-attachments/assets/85dc8db8-3e30-4f26-8b31-2a64764f2437)
